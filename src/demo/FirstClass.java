@@ -7,6 +7,7 @@ public class FirstClass {
 		System.out.println("hello first class");
 		System.out.println("git demo have change something");
 		System.out.println("only on udate here");
+		System.out.println("git demo have change something");
 	}
 
 }
